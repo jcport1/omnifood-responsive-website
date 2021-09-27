@@ -38,6 +38,7 @@ fae5d3
 --- 04 BORDER-RADIUS
 
 Default: 9px
+Medium: 11px
 
 --- 05 WHITESPACE
 
@@ -179,4 +180,8 @@ body {
 /* Helper class */
 .margin-right-sm {
   margin-right: 1.6rem !important;
+}
+
+strong {
+  font-weight: 500;
 }
